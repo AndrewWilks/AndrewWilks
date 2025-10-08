@@ -1,8 +1,9 @@
-# Andrew Wilks — Full-Stack Software Developer
+# Andrew Wilks — Software Developer
 
-Brisbane-based dev moving from Power Platform into **full-stack engineering**.
-I build with **React/Next.js, TypeScript, Node.js, and PostgreSQL**, and I care
-about clean UX, reliable APIs, and CI/CD. I ship working code and short, practical write-ups.
+Brisbane-based dev moving from the Microsoft Power Platform into **full‑stack engineering**.  
+I build with **React/Next.js, TypeScript, Node.js, and PostgreSQL**, and I care about clean UX, reliable APIs, and CI/CD. I ship working code and short, practical write-ups.
+
+I'm coming from the Power Platform, where I’ve built solutions using Power Apps, Power Automate, and Dataverse. I combine low-code Power Platform experience with modern front-end development (React + TypeScript) and growing back-end skills to deliver end-to-end solutions. I'm actively transitioning my career into full‑stack development.
 
 - 🔭 Building now:
   - **Portfolio Tracker** — dividends, CSV import, goals & projections
@@ -11,10 +12,8 @@ about clean UX, reliable APIs, and CI/CD. I ship working code and short, practic
 - 🎯 2025 focus: ship public code, tighten testing, and land a full-stack role
 - 📚 Studying: **PL-200 → PL-400 → AZ-204** (developer + cloud path)
 
-**Links:**  
-[Website](https://andrewwilks.au) •
-[LinkedIn](https://www.linkedin.com/in/andrew-wilksy) •
-Email: me@andrewwilks.au
+Links:  
+Website: https://andrewwilks.au • LinkedIn: https://www.linkedin.com/in/andrew-wilksy • Email: me@andrewwilks.au
 
 ---
 
@@ -31,12 +30,13 @@ Email: me@andrewwilks.au
 
 ---
 
-## Tech I use
+## Core Skills / Tech I use
 
-**Frontend:** React, Next.js, TypeScript, TanStack Query  
+**Power Platform:** Power Apps, Power Automate, Dataverse  
+**Frontend:** React, Next.js, TypeScript, TanStack Query, HTML, CSS  
 **Backend:** Node.js (Fastify/Express), REST, Drizzle ORM  
 **Data:** PostgreSQL, SQL, CSV pipelines  
-**DevOps:** Docker, GitHub Actions, GHCR, CodeQL, Dependabot  
+**DevOps / Tools:** Docker, GitHub Actions, GHCR, CodeQL, Dependabot  
 **Other:** Payload CMS, Vitest, Playwright, Figma
 
 ---
@@ -47,3 +47,21 @@ Email: me@andrewwilks.au
 - Conventional Commits + automated CHANGELOGs  
 - CI: lint → typecheck → tests → build on every PR  
 - Architecture notes/diagrams in `/docs` (Mermaid)
+
+---
+
+## Resumes & Contact
+
+Resumes (optional):  
+- Resume (Power Platform): <INSERT URL>  
+- Resume (Full‑Stack / General): <INSERT URL>
+
+Contact: me@andrewwilks.au — https://andrewwilks.au — https://www.linkedin.com/in/andrew-wilksy
+
+---
+
+## Selected Projects (example entries — add links and details)
+- Project A — Short description of a Power Platform solution or Power App you built.  
+- Project B — Short description of a React/TypeScript project or full-stack app.  
+
+(If you want, I can add links and brief write-ups for each project you’d like showcased.)
