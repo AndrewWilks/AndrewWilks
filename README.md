@@ -20,7 +20,7 @@ Website: https://andrewwilks.au • LinkedIn: https://www.linkedin.com/in/andrew
 ## What I'm shipping (public roadmap)
 
 - [ ] **Website (Payload + Next.js)** — Projects, Case Studies, Contact
-- [ ] **Dev Standards (monorepo)** — eslint/tsconfig/commitlint/testing presets; CI templates
+- [ ] **Dev Standards (monorepo)** `In Progress` — eslint/tsconfig/commitlint/testing presets; CI templates
 - [ ] **Portfolio Tracker (Next + Node + Postgres)** — auth + CRUD → CSV import → projections → goals
 - [ ] **Quick Win** — small, visual app (Weather/Habits/FX) for demos
 - [ ] **SaaS Starter** — “Use this template” repo with tests
