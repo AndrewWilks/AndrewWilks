@@ -59,9 +59,3 @@ Resumes (optional):
 Contact: me@andrewwilks.au — https://andrewwilks.au — https://www.linkedin.com/in/andrew-wilksy
 
 ---
-
-## Selected Projects (example entries — add links and details)
-- Project A — Short description of a Power Platform solution or Power App you built.  
-- Project B — Short description of a React/TypeScript project or full-stack app.  
-
-(If you want, I can add links and brief write-ups for each project you’d like showcased.)
