@@ -1,61 +1,53 @@
-# Andrew Wilks — Software Developer
+# Andrew Wilks — Software Engineer
 
-Brisbane-based dev moving from the Microsoft Power Platform into **full‑stack engineering**.  
-I build with **React/Next.js, TypeScript, Node.js, and PostgreSQL**, and I care about clean UX, reliable APIs, and CI/CD. I ship working code and short, practical write-ups.
+Software Engineer at **Australian Retirement Trust**, building full-stack and Power Platform solutions.  
+I work across **React, TypeScript, SPFx, and the Microsoft Power Platform**, and I care about clean UX, reliable delivery, and practical engineering standards.
 
-I'm coming from the Power Platform, where I’ve built solutions using Power Apps, Power Automate, and Dataverse. I combine low-code Power Platform experience with modern front-end development (React + TypeScript) and growing back-end skills to deliver end-to-end solutions. I'm actively transitioning my career into full‑stack development.
+I still work across both worlds: modern web engineering and the Microsoft ecosystem. My background with **Power Apps, Power Automate, Dataverse, SPFx, and Power Pages** complements the product and application work I do with React and TypeScript.
 
 - 🔭 Building now:
-  - **Portfolio Tracker** — dividends, CSV import, goals & projections
-  - **Dev Standards** — reusable ESLint/TS/testing/changelog presets
-  - **SaaS Starter** — Next.js template with Auth.js + RBAC + tests
-- 🎯 2025 focus: ship public code, tighten testing, and land a full-stack role
-- 📚 Studying: **PL-200 → PL-400 → AZ-204** (developer + cloud path)
+  - **Personal Financial Portfolio app (working title: Wova)** — a desktop-first portfolio and personal finance app focused on investing, dividend tracking, tax support, scenario planning, and reporting
+  - **Dev Standards** — reusable repo standards covering CI, commit discipline, testing, and documentation
+- 🎯 2026 focus: finish and ship the Personal Financial Portfolio app
+- 📚 Currently refining my existing skills; certifications like **PL-200, PL-400, and AZ-204** are still on the roadmap when time allows
 
 Links:  
 Website: https://andrewwilks.au • LinkedIn: https://www.linkedin.com/in/andrew-wilksy • Email: me@andrewwilks.au
 
 ---
 
-## What I'm shipping (public roadmap)
+## What I'm shipping
 
-- [ ] **Website (Payload + Next.js)** — Projects, Case Studies, Contact
-- [ ] **Dev Standards (monorepo)** `In Progress` — eslint/tsconfig/commitlint/testing presets; CI templates
-- [ ] **Portfolio Tracker (Next + Node + Postgres)** — auth + CRUD → CSV import → projections → goals
-- [ ] **Quick Win** — small, visual app (Weather/Habits/FX) for demos
-- [ ] **SaaS Starter** — “Use this template” repo with tests
-- [ ] **Node Automation Service** — webhook → queue (BullMQ) → retry/backoff; logs + health
+- [ ] **Personal Financial Portfolio app (Wova)** — TypeScript-heavy desktop-first app for portfolio management, dividend investing, tax support, scenario planning, analysis, and reporting
+- [ ] **Dev Standards** — reusable TypeScript/CI/testing/release standards and templates for new repositories
+- [ ] **Website** — projects, case studies, and contact
 
-> I prefer to show real code and why I built it. Case studies will land on my site as each project goes live.
+> I prefer to show real code, thoughtful structure, and why I built something. Case studies will land on my site as projects mature.
 
 ---
 
 ## Core Skills / Tech I use
 
-**Power Platform:** Power Apps, Power Automate, Dataverse  
+**Microsoft ecosystem:** Power Apps, Power Automate, Dataverse, SPFx, Power Pages  
 **Frontend:** React, Next.js, TypeScript, TanStack Query, HTML, CSS  
-**Backend:** Node.js (Fastify/Express), REST, Drizzle ORM  
+**Backend / App Architecture:** Node.js, Electron, REST APIs, Drizzle ORM  
 **Data:** PostgreSQL, SQL, CSV pipelines  
-**DevOps / Tools:** Docker, GitHub Actions, GHCR, CodeQL, Dependabot  
-**Other:** Payload CMS, Vitest, Playwright, Figma
+**DevOps / Quality:** GitHub Actions, CodeQL, Dependabot, Docker, CI/CD, testing  
+**Other:** Vitest, Playwright, Payload CMS, Figma
 
 ---
 
 ## How I work
 
-- Small, readable PRs with tests and clear READMEs  
-- Conventional Commits + automated CHANGELOGs  
-- CI: lint → typecheck → tests → build on every PR  
-- Architecture notes/diagrams in `/docs` (Mermaid)
+- Small, readable PRs with clear intent
+- Strong preference for type safety, maintainability, and practical standards
+- CI-minded workflow: lint, typecheck, test, and build as part of normal delivery
+- Architecture notes and implementation details documented alongside the code when useful
 
 ---
 
 ## Resumes & Contact
 
-Resumes (optional):  
-- Resume (Power Platform): <INSERT URL>  
-- Resume (Full‑Stack / General): <INSERT URL>
+Resume: https://www.andrewwilks.au/resume
 
 Contact: me@andrewwilks.au — https://andrewwilks.au — https://www.linkedin.com/in/andrew-wilksy
-
----
